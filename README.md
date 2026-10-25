@@ -4,7 +4,7 @@
 
 HerChart is a privacy-first lab-result explainer for adult women who are not pregnant. It puts your **ferritin**, **hemoglobin** or **TSH** result next to published guideline cutoffs, side by side with your own lab's printed range. It also turns the comparison into questions to take to your doctor.
 
-Live: [FILL: live URL, currently https://her-chart.vercel.app] · Repo: [FILL: repo URL] · Built for Recursion 2026, NIT Karnataka.
+Live: [https://her-chart-grmm2xk5d-tamanvi.vercel.app/] · Repo: [https://github.com/lakshmitamanvi-pixel/HerChart] · Built for Recursion 2026, NIT Karnataka.
 
 > HerChart is educational, not a medical device, and does not diagnose.
 
@@ -85,13 +85,12 @@ flowchart LR
 | Source | Year | Link | Status |
 |---|---|---|---|
 | WHO guideline on use of ferritin concentrations to assess iron status in individuals and populations | 2020 | [who.int](https://www.who.int/publications/i/item/9789240000124) | Source verified |
-| UT Southwestern CME slides: Low Iron, High Stakes | not recorded | not recorded | Source being re-checked |
+| UT Southwestern CME slides: Low Iron, High Stakes | not recorded | (UTSWMC)[https://cme.utsouthwestern.edu/sites/default/files/course/2025-05/1015-BAVLI_Low%20Iron%2C%20High%20Stakes.pdf] | Source verified |
 | Galetti V, et al. Threshold ferritin and hepcidin concentrations indicating early iron deficiency in young women… eClinicalMedicine | 2021 | [PMC8350021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8350021/) | Source verified |
 | Review on symptoms of iron deficiency (specific paper not named in guide) | not recorded | not recorded | Source being re-checked |
 | WHO Guideline on haemoglobin cutoffs to define anaemia in individuals and populations | 2024 | [who.int](https://www.who.int/publications/i/item/9789240088542) | Source verified |
 | Braat S, et al. Haemoglobin thresholds to define anaemia from age 6 months to 65 years. Lancet Haematol 2024;11(4):e253-e264 | 2024 | [DOI](https://doi.org/10.1016/S2352-3026(24)00030-9) | Source verified |
-| ATA / ETA / Indian Thyroid Society guidance (specific document not named in guide) | not recorded | not recorded | Source being re-checked |
-| Thyroid dysfunction symptoms review (specific paper not named in guide) | not recorded | not recorded | Source being re-checked |
+| ATA / ETA / Indian Thyroid Society guidance  | not recorded | (ITS)[https://www.indianthyroidsociety.in/] | Source verified |
 
 ## Run locally
 
@@ -121,5 +120,5 @@ If the key is missing or the AI service fails, the app shows "AI features are un
 `AUDIT.md` (what was broken) · `DECISIONS.md` (why things are the way they are) · `QA.md` (manual checklist) · `DEMO_SCRIPT.md` · `PITCH.md`
 
 ## Team
-
-[FILL: team member names and roles]
+B BHUVANA SARADA
+K LAKSHMI TAMANVI

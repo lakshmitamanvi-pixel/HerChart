@@ -121,4 +121,5 @@ If the key is missing or the AI service fails, the app shows "AI features are un
 
 ## Team
 B BHUVANA SARADA
+
 K LAKSHMI TAMANVI
